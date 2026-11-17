@@ -72,12 +72,6 @@ Department Management
 
 <img width="1920" height="602" alt="3" src="https://github.com/user-attachments/assets/a9c6da78-903f-4311-ba46-969369397ca5" />
 
-
-
-Skill Management
-
-Add employee skills and skill inventory screenshots here.
-
 Leave Management
 
 <img width="1911" height="880" alt="4" src="https://github.com/user-attachments/assets/0ff07435-f2a7-428b-874d-07fd9a4f6a75" />

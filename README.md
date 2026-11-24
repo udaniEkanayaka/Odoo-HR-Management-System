@@ -1,6 +1,6 @@
 <img width="1899" height="933" alt="1 em" src="https://github.com/user-attachments/assets/ff3f7daf-d0d1-4389-8013-f2dc05fe8965" />Odoo-HR-Management-System
 
-Project Overview
+ Project Overview
 
 The Odoo HR Management System is a personal ERP project developed to demonstrate how an organization can manage employee information and basic HR activities using Odoo.
 The system is configured for a software company with 4 departments and 18 employees, including the CEO. It provides a centralized platform to organize employee records, manage skills, maintain department structures, and handle leave requests.
